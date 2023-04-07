@@ -1,0 +1,18 @@
+---------------------------------------------------------------
+------------------   *   FOODIES FARM   *   -------------------
+---------------------------------------------------------------
+                            MENU
+->South Indian         price  	     ->Punjabi		     price
+1    Dosas             100RS      	7	Makke di Roti  150RS
+2    Idlis             50RS       	8	Punjabi Thali  200RS
+3    Uttapams          70RS  		9	Panjiri 	     50RS
+	
+->Gujarati food        price		->Chinese		     price
+4	Gujarati Thali    250RS		10	Dry Manchurian 80RS
+5	Undhiyu		150RS		11	Noodles	     70RS
+6	Khichdi           50RS		12	fried rice	     50RS
+                            
+----------------------------------------------------------------
+----------------------------------------------------------------
+ 
+                              
